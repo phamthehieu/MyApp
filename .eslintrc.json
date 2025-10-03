@@ -1,0 +1,5 @@
+{
+  "root": true,
+  "extends": ["@react-native/eslint-config", "plugin:prettier/recommended"],
+  "rules": { "prettier/prettier": ["error", { "endOfLine": "auto" }] }
+}
